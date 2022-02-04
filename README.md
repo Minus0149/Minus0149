@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Minus0149
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning JavaScript And TypeScript
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking for a job
-- 📫 How to reach me Through mail 
+- 📫 How to reach me Twitter ~ Minus_luci
 
 <!---
 Minus0149/Minus0149 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
