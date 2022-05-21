@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📫 How to reach me **Minus.4399@gmail.com**
+- 📫 How to reach me **Minus4399@gmail.com**
   </div>
 </div>
 <div style="display: inline_block"><br>
