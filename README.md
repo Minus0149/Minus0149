@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mir Iqrab Farman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/77971830/169631126-fd3e1ff0-c989-4564-9b76-4575f6de1a8f.png
+<img align="right" width="300px" src="[https://user-images.githubusercontent.com/77971830/169631126-fd3e1ff0-c989-4564-9b76-4575f6de1a8f.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.finfrockmarketing.com%2Fpost%2Fweb-designer&psig=AOvVaw15NEr6kssSAdWF9FPJ7ghX&ust=1653186951398000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjezbzH7_cCFQAAAAAdAAAAABAX)
 " alt="A person programming">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minus0149&label=Profile%20views&color=0e75b6&style=flat" alt="minus0149" /> </p>
