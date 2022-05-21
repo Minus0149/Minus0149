@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif))]
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Mir Iqrab Farman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
