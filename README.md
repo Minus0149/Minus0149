@@ -22,7 +22,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/852951838092558378/073622ffab07663f164558cf55262fd1.jpg?size=1024">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/J4D9NkXg/pfp1.png">
 </div>
   
   ##
