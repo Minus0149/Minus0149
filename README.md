@@ -38,7 +38,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minus0149&show_icons=true&locale=en&layout=compact&theme=dracula" alt="minus0149" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minus0149&show_icons=true&locale=en&theme=dracula" alt="minus0149" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minus0149&theme=dracula" alt="minus0149" /></p>
+
 </div>
 
 
